@@ -1,7 +1,7 @@
 ## Employee Laptop Delivery Tracking App Deployment
-###  Sprint 2 solution by group 3
 
 <!--Our solution to the given problem statement--->
+## Our solution to the given problem statement
 * Dependency: All the application dependencies can be packed as a Docker Image along with the application, So when we run the Docker Image, the application runs seamlessly without any issues 
 with dependency issues. 
 * High Availability: The application can be available all the time by deploying in Kubernetes using K8’s deployments. The application uses a load balancer and implements auto-scaling in AWS, utilizing the 
