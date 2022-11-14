@@ -14,7 +14,7 @@
 <!-- Links -->
 ## Deployment Links for project, hosted on AWS 
 
-* Ajit - [EKS](http://http://ae71f999a63e142478389840a1b2ca5c-1803958833.us-east-1.elb.amazonaws.com/swagger-ui/#)
+* Ajit - [EKS](http://ae71f999a63e142478389840a1b2ca5c-1803958833.us-east-1.elb.amazonaws.com/swagger-ui/#)
 * T Harshasai -  [EKS](http://a4f25d2cc4675499e85442b57699b026-138241551.us-east-1.elb.amazonaws.com/swagger-ui/#)
 * Siddhi Khanvilkar - [EKS](http://ab592e6f4467c4cd9ae897cf532b10ee-1380017154.us-east-1.elb.amazonaws.com/swagger-ui/#)
 * Divyangna Kumari Sinha - [EKS](http://a373dcf894169450097c823ca379fb4c-1407986151.us-east-1.elb.amazonaws.com/swagger-ui/#)
